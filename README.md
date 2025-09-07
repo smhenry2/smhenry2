@@ -1,3 +1,7 @@
-# S. Henry
-# Graduate student in Atmospheric Sciences
-# UIUC
+# Hello!
+
+S. Henry
+
+Graduate student in Atmospheric Sciences
+
+UIUC
